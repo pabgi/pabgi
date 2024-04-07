@@ -9,9 +9,9 @@
 
 ### TECH TOOLS
 - [Power BI](https://powerbi.microsoft.com)
-- NumPy
-- Pandas 
-- Plotly
+- [NumPy](https://numpy.org)
+- [Pandas](https://pandas.org) 
+- [Plotly](https://plotly.org)
 - Scikit-learn
 - Visual Studio Code
 - [Python](https://python.org)
