@@ -14,5 +14,5 @@
 - Plotly
 - Scikit-learn
 - Visual Studio Code
-- Python
-- MySQL
+- [Python](www.python.org)
+- [MySQL](www.myqsl.com)
