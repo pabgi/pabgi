@@ -15,4 +15,4 @@
 - Scikit-learn
 - Visual Studio Code
 - [Python](https://python.org)
-- [MySQL](https://myqsl.com)
+- [MySQL](https://mysql.com)
